@@ -1,0 +1,17 @@
+# $HOME/.config/alacritty/alacritty.toml
+
+
+[shell]
+
+program = "tmux"
+args = ["attach"]
+
+[window]
+
+opacity = 0.9
+
+[font]
+
+normal = { family = "JetBrains Mono" }
+size = 10
+
